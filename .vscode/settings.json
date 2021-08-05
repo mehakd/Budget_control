@@ -1,0 +1,21 @@
+{
+    "files.exclude": {
+        "**/.gitignore": true,
+        "**/.git": true,
+        "**/.vscode": true
+    },
+    "eslint.validate": [
+        "javascript",
+        "cds",
+        "json",
+        "yaml",
+        "csn"
+    ],
+    "eslint.options": {
+        "rulePaths": [
+            "/home/user/projects/CAP_DEMO/.eslint/rules"
+        ]
+    },
+    "actions": [],
+    "git.ignoreLimitWarning": true
+}
